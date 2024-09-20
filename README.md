@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/syed_humayunaz3" target="blank"><img src="https://img.shields.io/twitter/follow/syed_humayunaz3?logo=twitter&style=for-the-badge" alt="syed_humayunaz3" /></a> </p>
 
-- 💻 I’m currently working on **Angular Project**
+- 💻 I’m currently working on **Angular & Docker**
 
-- 🧠 I’m also Learning other **Frameworks (Django, Flask, Laravel)**
+- 🧠 I’m also Learning other **Frameworks (Django, .NET & Laravel)**
 
 - 👯 I’m looking to collaborate in **Open Source Projects**
 
