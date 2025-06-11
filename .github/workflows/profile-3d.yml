@@ -18,7 +18,7 @@ jobs:
       - uses: Syed-Humay0on/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          USERNAME: ${{ github.repository_owner}}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
