@@ -11,7 +11,7 @@
 <a href="https://www.reddit.com/user/InternationalLie7754/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
 ## ![MasterHead](https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif)
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&pause=1000&color=9A75C9&center=false&vCenter=true&width=435&lines=%F0%9F%93%A1+Github+Traffic+Stats" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&pause=1000&color=9A75C9&center=false&vCenter=true&width=435&lines=%F0%9F%93%A1+Github+Traffic+Stats" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Syed-Humay0on/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
 </p>
@@ -34,7 +34,7 @@
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://k3s.io/"><img src="https://img.shields.io/badge/k3s-%23FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black"><a/>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Syed-Humay0on&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Syed-Humay0on&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Humay0on&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
