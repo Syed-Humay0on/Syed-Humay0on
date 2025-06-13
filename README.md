@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Syed-Humay0on&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-## 📈 Weekly Progress
+## 📈 Language Progress Bar
 <!--START_SECTION:waka-->
 
 ```txt
