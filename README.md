@@ -11,7 +11,10 @@
 <a href="https://www.reddit.com/user/InternationalLie7754/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
 ## ![MasterHead](https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif)
 
-
+## 📡 Traffic Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Syed-Humay0on/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
+</p>
 
 # 💻 Tech Stack:
 <a href="https://elixir-lang.org/" target="blank"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/></a>
