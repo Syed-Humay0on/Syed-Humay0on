@@ -11,7 +11,7 @@
 <a href="https://www.reddit.com/user/InternationalLie7754/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
 ## ![MasterHead](https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif)
 
-## 📡 Traffic Stats
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&pause=1000&color=9A75C9&center=true&vCenter=true&width=435&lines=%F0%9F%93%A1+Traffic+Stats" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Syed-Humay0on/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
 </p>
