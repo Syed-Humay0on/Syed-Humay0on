@@ -4,7 +4,10 @@
 ### <h3 align="center">A passionate Full Stack developer from Pakistan <img src="https://lh3.googleusercontent.com/-qmncjj9_qAY/VhE2Ku3hH5I/AAAAAAAAkGU/nsCZsBqOv_s/s1600/pakistan-flag-animation.gif" height="18" width="30" style="vertical-align: middle; position: relative; top: 20px; margin-left: -6px;" /></h3>
 <hr/>
 
-## ![Canva ReadMe](https://github.com/user-attachments/assets/5cfcb337-d236-43e8-a1fd-c603c8c4c69c)
+## ![AboutMe](https://github.com/user-attachments/assets/c16f7d1a-2404-40e6-a0f0-f23a06d9ae53)
+
+
+
 
 ## 🌐 Socials:
 <a href="mailto:Humayoon04Syed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
