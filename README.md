@@ -54,10 +54,10 @@ Lua          1 min           █████▒░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Syed-Humay0on&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
