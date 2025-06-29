@@ -25,7 +25,8 @@
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-2e3440?logo=arch-linux&logoColor=1793D1&style=for-the-badge" alt="Arch"/></a>
-<a href="https://nixos.org/" target="_blank"><img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="Nix"/></a>
+<a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Neovim"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/></a>
 <a href="https://www.nushell.sh/"><img src="https://img.shields.io/badge/nushell-%23303030.svg?style=for-the-badge&logo=nushell&logoColor=#white"/></a>
 <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/zsh-%23121011.svg?style=for-the-badge&logo=zsh&logoColor=F15A24"/></a>
