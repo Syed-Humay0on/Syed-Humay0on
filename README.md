@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/Syed-Humay0on/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
 </p>
 
-# 💻 Tech Stack:
+# 💻 My Daily Stack
 <a href="https://elixir-lang.org/" target="blank"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/></a>
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/></a>
@@ -64,9 +64,11 @@ Bash          15 mins         ▓░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<details>
+<summary><h2>✍️ Random Dev Quote</h2> </summary>
 
-## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</details>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Syed-Humay0on&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
