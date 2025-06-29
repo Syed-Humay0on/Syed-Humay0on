@@ -39,6 +39,8 @@
 <a href="https://nginx.org/"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://k3s.io/"><img src="https://img.shields.io/badge/k3s-%23FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black"><a/>
+<a href="https://www.wireguard.com"><img src="https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"><a/>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Syed-Humay0on&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
