@@ -6,10 +6,6 @@
 
 ## ![AboutMe](https://github.com/user-attachments/assets/b2d9e148-783d-4674-b2e6-772bd1332732)
 
-
-<img width="1200" height="400" alt="abt" src= />
-
-
 ## 🌐 Socials:
 <a href="mailto:Humayoon04Syed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.discordapp.com/users/detective.noir/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
