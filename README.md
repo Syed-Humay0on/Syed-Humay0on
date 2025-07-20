@@ -19,7 +19,7 @@
 
 # 💻 My Daily Stack
 <a href="https://elixir-lang.org/" target="blank"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/></a>
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-2e3440?logo=arch-linux&logoColor=1793D1&style=for-the-badge" alt="Arch"/></a>
 <a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
