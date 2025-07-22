@@ -21,7 +21,6 @@
 <a href="mailto:Humayoon04Syed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.discordapp.com/users/detective.noir/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/InternationalLie7754/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
-## ![MasterHead](https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif)
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&pause=1000&color=9A75C9&center=false&vCenter=true&width=435&lines=%F0%9F%93%A1+Github+Traffic+Stats:" alt="Typing SVG" /></a>
 <p align="center">
