@@ -4,7 +4,18 @@
 ### <h3 align="center">Your Friendly Neighborhood WebDeveloper from Pakistan <img src="https://lh3.googleusercontent.com/-qmncjj9_qAY/VhE2Ku3hH5I/AAAAAAAAkGU/nsCZsBqOv_s/s1600/pakistan-flag-animation.gif" height="18" width="30" style="vertical-align: middle; position: relative; top: 20px; margin-left: -6px;" /></h3>
 <hr/>
 
-## ![AboutMe](https://github.com/user-attachments/assets/b2d9e148-783d-4674-b2e6-772bd1332732)
+## AboutMe:
+<ul>
+  <li>
+    👨🏻‍💻 Currently wokring on React & Express for MERN Stack
+  </li>
+  <li>🧠 FullTime Linux User (Arch btw) & working on bash to improve my scripting
+</li>
+  <li>💭 Looking forward getting into DevOps!
+</li>
+  <li>📦 Interested in functional programming, docker containers & K3s clusters
+</li>
+</ul>
 
 ## 🌐 Socials:
 <a href="mailto:Humayoon04Syed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
