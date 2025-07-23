@@ -7,7 +7,7 @@
 # 👤 About Me:
 <ul>
   <li>
-    👨🏻‍💻 Currently wokring on React & Express for MERN Stack
+    👨🏻‍💻 Currently working on React & Express for MERN Stack
   </li>
   <li>🧠 FullTime Linux User (Arch btw) & writing bash scripts to improve my scripting
 </li>
