@@ -40,6 +40,7 @@
 <a href="https://www.phoenixframework.org/"><img src="https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black" alt="Pheonix Framework"/></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" lt="TailwindCSS"/></a>
 <a href="https://obsidian.md"><img src="https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="nginx"/></a>
+<a href="https://min.io/"><img src="https://img.shields.io/badge/minio-%23C72E49.svg?style=for-the-badge&logo=minio&logoColor=white"><a/>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://k3s.io/"><img src="https://img.shields.io/badge/k3s-%23FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black"><a/>
 <a href="https://www.wireguard.com"><img src="https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"><a/>
