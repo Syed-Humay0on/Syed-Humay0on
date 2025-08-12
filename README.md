@@ -60,9 +60,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 32 mins    ████████████████████▓░░░░   82.16 %
-Bash         17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-gitignore    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JavaScript   16 mins         ███████████████████████▓░   95.14 %
+Bash         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
