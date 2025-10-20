@@ -7,13 +7,13 @@
 # 👤 About Me:
 <ul>
   <li>
-    👨🏻‍💻 Currently working on React & Express for MERN Stack
+    👨🏻‍💻 Currently learning Golang because I heard it's wicked fast 
   </li>
-  <li>🧠 FullTime Linux User (Arch btw) & writing bash scripts to improve my scripting
+  <li>🧠 FullTime Linux User (Arch btw) because I have no life
 </li>
   <li>💭 Looking forward getting into DevOps!
 </li>
-  <li>📦 Interested in functional programming, docker containers & K3s clusters
+  <li>📦 Functional programming is the future
 </li>
 </ul>
 
