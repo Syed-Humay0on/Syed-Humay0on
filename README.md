@@ -37,7 +37,7 @@
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#4EAA25" alt="bash"/></a>
 <a href="https://www.nushell.sh/"><img src="https://img.shields.io/badge/nushell-%23303030.svg?style=for-the-badge&logo=nushell&logoColor=#white"/></a>
 <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/zsh-%23121011.svg?style=for-the-badge&logo=zsh&logoColor=F15A24"/></a>
-<a href="https://www.phoenixframework.org/"><img src="https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black" alt="Pheonix Framework"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/Postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Pheonix Framework"/></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" lt="TailwindCSS"/></a>
 <a href="https://obsidian.md"><img src="https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="nginx"/></a>
 <a href="https://min.io/"><img src="https://img.shields.io/badge/minio-%23C72E49.svg?style=for-the-badge&logo=minio&logoColor=white"><a/>
