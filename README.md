@@ -5,7 +5,7 @@
 <hr/>
 
 # 👤 About Me:
-<ul>
+<ul><b>
   <li>
     👨🏻‍💻 Currently learning Golang because I heard it's wicked fast 
   </li>
@@ -14,7 +14,7 @@
   <li>💭 Looking forward getting into DevOps!
 </li>
   <li>📦 Functional programming is the future
-</li>
+</li></b>
 </ul>
 
 ## 🌐 Socials:
