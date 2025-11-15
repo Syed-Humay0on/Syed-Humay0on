@@ -6,16 +6,12 @@
 
 # 👤 About Me:
 <ul><b>
-  <li>
-    👨🏻‍💻 Currently learning Golang because I heard it's wicked fast 
-  </li>
-  <li>🧠 FullTime Linux User (Arch btw) because I have no life
-</li>
-  <li>💭 Looking forward getting into DevOps!
-</li>
-  <li>📦 Functional programming is the future
-</li></b>
-</ul>
+  <li>👨🏻‍💻 Currently learning Golang because I heard it's wicked fast </li>
+  <li>🧠 FullTime Linux User (Arch btw) because I have no life </li>
+  <li>💭 Looking forward getting into DevOps!</li>
+  <li>🧩 Functional programming is the future</li>
+  <li>⚡ Prefer Speed over everything</li>
+</b></ul>
 
 ## 🌐 Socials:
 <a href="mailto:Humayoon04Syed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
