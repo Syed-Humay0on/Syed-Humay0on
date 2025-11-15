@@ -8,7 +8,7 @@
 <ul><b>
   <li>👨🏻‍💻 Currently learning Golang because I heard it's wicked fast </li>
   <li>🧠 FullTime Linux User (Arch btw) because I have no life </li>
-  <li>💭 Looking forward getting into DevOps!</li>
+  <li>💭 Looking forward to getting into DevOps!</li>
   <li>🧩 Functional programming is the future</li>
   <li>⚡ Prefer Speed over everything</li>
 </b></ul>
@@ -40,6 +40,11 @@
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://k3s.io/"><img src="https://img.shields.io/badge/k3s-%23FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black"><a/>
 <a href="https://www.wireguard.com"><img src="https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"><a/>
+
+## ✍ Bucket List:
+<a href="https://rust-lang.org/" target="blank"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
+<a href="https://ziglang.org/" target="blank"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black"/></a>
+<a href="https://www.vulkan.org/" target="blank"><img src="https://img.shields.io/badge/vulkan-%23A41E22.svg?style=for-the-badge&logo=vulkan&logoColor=white"/></a>
 
 
 ## 📊 GitHub Stats:
