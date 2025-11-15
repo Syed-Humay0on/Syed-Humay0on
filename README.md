@@ -45,7 +45,7 @@
 <a href="https://rust-lang.org/" target="blank"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 <a href="https://ziglang.org/" target="blank"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black"/></a>
 <a href="https://www.vulkan.org/" target="blank"><img src="https://img.shields.io/badge/vulkan-%23A41E22.svg?style=for-the-badge&logo=vulkan&logoColor=white"/></a>
-
+<a href="https://www.pytorch.org/" target="blank"><img src="https://img.shields.io/badge/pytorch-%23FFFFFF.svg?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C"/></a>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Syed-Humay0on&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
