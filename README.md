@@ -6,6 +6,7 @@
 
 # 👤 About Me:
 <ul><b>
+  <li>🥱 Not much, just a nerd who's obsessed with CLI and try something new everyday</li>
   <li>👨🏻‍💻 Currently learning Golang because I heard it's wicked fast </li>
   <li>🧠 FullTime Linux User (Arch btw) because I have no life </li>
   <li>💭 Looking forward to getting into DevOps!</li>
