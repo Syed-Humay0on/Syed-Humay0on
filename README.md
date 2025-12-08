@@ -59,6 +59,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Syed-Humay0on&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Language Progress Bar
+[![wakatime](https://wakatime.com/badge/user/f864daa8-4bef-48c5-a5a1-f557eeeb05c1.svg?style=for-the-badge)](https://wakatime.com/@f864daa8-4bef-48c5-a5a1-f557eeeb05c1)
 <!--START_SECTION:waka-->
 
 ```txt
