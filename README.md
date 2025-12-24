@@ -6,11 +6,11 @@
 
 # 👤 About Me:
 <ul><b>
-  <li>🥱 Not much, just a nerd who's obsessed with CLI and trying something new everyday</li>
-  <li>👨🏻‍💻 Currently practicing Elixir & Golang because of their wicked fast performance, concurrency, error handling and fault tolerance </li>
+  <li>🥱 Just another nerd obsessing over CLI tools and new stuff in the IT world</li>
+  <li>👨🏻‍💻 Currently learning Zig to understand systems architecture on a deeper level</li>
   <li>🧠 FullTime Linux User (Arch btw) because I have no life </li>
   <li>💭 Looking forward to getting into DevOps!</li>
-  <li>🧩 Functional programming is the future</li>
+  <li>🧩 Functional programming is the future (<i>still skeptical abt it tbh</i>) </li>
   <li>⚡ Prefer Speed over everything</li>
 </b></ul>
 
