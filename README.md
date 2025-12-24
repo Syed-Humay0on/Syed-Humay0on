@@ -25,8 +25,8 @@
 </p>
 
 # 💻 My Daily Stack
+<a href="https://ziglang.org/" target="blank"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black"/></a>
 <a href="https://elixir-lang.org/" target="blank"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/></a>
-<a href="https://go.dev/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-2e3440?logo=arch-linux&logoColor=1793D1&style=for-the-badge" alt="Arch"/></a>
 <a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
@@ -35,18 +35,14 @@
 <a href="https://www.nushell.sh/"><img src="https://img.shields.io/badge/nushell-%23303030.svg?style=for-the-badge&logo=nushell&logoColor=#white"/></a>
 <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/zsh-%23121011.svg?style=for-the-badge&logo=zsh&logoColor=F15A24"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/Postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Pheonix Framework"/></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" lt="TailwindCSS"/></a>
 <a href="https://obsidian.md"><img src="https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="nginx"/></a>
-<a href="https://min.io/"><img src="https://img.shields.io/badge/minio-%23C72E49.svg?style=for-the-badge&logo=minio&logoColor=white"><a/>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://www.podman.io/"><img src="https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white"/></a>
 <a href="https://k3s.io/"><img src="https://img.shields.io/badge/k3s-%23FFC61C.svg?style=for-the-badge&logo=K3s&logoColor=black"><a/>
-<a href="https://www.wireguard.com"><img src="https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white"><a/>
 
 ## ✍ Bucket List:
 <a href="https://rust-lang.org/" target="blank"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
-<a href="https://ziglang.org/" target="blank"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black"/></a>
+<a href="https://www.raylib.com//" target="blank"><img src="https://img.shields.io/badge/raylib-%23000000.svg?style=for-the-badge&logo=raylib&logoColor=white"/></a>
 <a href="https://www.vulkan.org/" target="blank"><img src="https://img.shields.io/badge/vulkan-%23A41E22.svg?style=for-the-badge&logo=vulkan&logoColor=white"/></a>
-<a href="https://www.pytorch.org/" target="blank"><img src="https://img.shields.io/badge/pytorch-%23FFFFFF.svg?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C"/></a>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Syed-Humay0on&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
