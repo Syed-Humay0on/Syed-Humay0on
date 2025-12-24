@@ -32,9 +32,6 @@
 <a href="https://distrobox.it/" target="_blank"><img src="https://img.shields.io/badge/distrobox-%234F433C?logo=distrobox&logoColor=FFFFF&style=for-the-badge" alt="Distrobox"/></a>
 <a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Neovim"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=#4EAA25" alt="bash"/></a>
-<a href="https://www.nushell.sh/"><img src="https://img.shields.io/badge/nushell-%23303030.svg?style=for-the-badge&logo=nushell&logoColor=#white"/></a>
-<a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/zsh-%23121011.svg?style=for-the-badge&logo=zsh&logoColor=F15A24"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/Postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Pheonix Framework"/></a>
 <a href="https://obsidian.md"><img src="https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="nginx"/></a>
 <a href="https://www.podman.io/"><img src="https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white"/></a>
