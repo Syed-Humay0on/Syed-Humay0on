@@ -41,7 +41,7 @@
 
 ## ✍ Bucket List:
 <a href="https://rust-lang.org/" target="blank"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
-<a href="https://www.raylib.com//" target="blank"><img src="https://img.shields.io/badge/raylib-%23000000.svg?style=for-the-badge&logo=raylib&logoColor=white"/></a>
+<a href="https://www.raylib.com/" target="blank"><img src="https://img.shields.io/badge/raylib-%23000000.svg?style=for-the-badge&logo=raylib&logoColor=white"/></a>
 <a href="https://www.vulkan.org/" target="blank"><img src="https://img.shields.io/badge/vulkan-%23A41E22.svg?style=for-the-badge&logo=vulkan&logoColor=white"/></a>
 
 ## 📊 GitHub Stats:
