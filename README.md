@@ -19,11 +19,6 @@
 <a href="https://www.discordapp.com/users/detective.noir/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/InternationalLie7754/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=30&pause=1000&color=9A75C9&center=false&vCenter=true&width=435&lines=%F0%9F%93%A1+Github+Traffic+Stats:" alt="Typing SVG" /></a>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Humay0on/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
-</p>
-
 # 💻 My Daily Stack
 <a href="https://ziglang.org/" target="blank"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black"/></a>
 <a href="https://elixir-lang.org/" target="blank"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/></a>
@@ -49,9 +44,6 @@
 ## ⌛️ Isometric Contribution 3d Chart
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Syed-Humay0on&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
 ## 📈 Language Progress Bar
 [![wakatime](https://wakatime.com/badge/user/f864daa8-4bef-48c5-a5a1-f557eeeb05c1.svg?style=for-the-badge)](https://wakatime.com/@f864daa8-4bef-48c5-a5a1-f557eeeb05c1)
 <!--START_SECTION:waka-->
@@ -65,16 +57,10 @@ conf        3 mins          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<details>
-<summary><h2>✍️ Random Dev Quote</h2> </summary>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</details>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Syed-Humay0on&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Syed-Humay0on&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
