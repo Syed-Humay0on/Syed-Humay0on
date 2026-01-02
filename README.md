@@ -58,9 +58,4 @@ conf        3 mins          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Syed-Humay0on&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
