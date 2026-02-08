@@ -7,9 +7,9 @@
 # 👤 About Me:
 <ul><b>
   <li>🥱 Just another nerd obsessing over CLI tools and new stuff in the IT world</li>
-  <li>👨🏻‍💻 Currently learning Zig to understand systems architecture and programming</li>
+  <li>👨🏻‍💻 Currently doing systems programming with Zig to understand system design & architecture</li>
   <li>🧠 FullTime Linux User (Arch btw) because I have no life </li>
-  <li>💭 Looking forward to getting into DevOps!</li>
+  <li>💭 Looking forward to getting into DevOps (somehow💀)</li>
   <li>🧩 Functional programming is the future (<i>still skeptical abt it tbh</i>) </li>
   <li>⚡ Prefer Speed over everything</li>
 </b></ul>
