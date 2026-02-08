@@ -21,6 +21,7 @@
 
 # 💻 My Daily Stack
 <a href="https://ziglang.org/" target="blank"><img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black"/></a>
+<a href="https://go.dev/" target="blank"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href="https://elixir-lang.org/" target="blank"><img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-2e3440?logo=arch-linux&logoColor=1793D1&style=for-the-badge" alt="Arch"/></a>
