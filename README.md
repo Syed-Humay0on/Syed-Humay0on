@@ -50,8 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir   1 hr 30 mins          █████████████████████████   99.78 %
-Go       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Elixir   1 hr 39 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
