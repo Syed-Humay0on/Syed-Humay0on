@@ -50,8 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Zig    42 mins               ███████████████████████▒░   93.15 %
-Bash   3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
