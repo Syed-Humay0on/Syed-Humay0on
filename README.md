@@ -50,7 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      21 mins               █████████████▒░░░░░░░░░░░   52.87 %
+Zig        10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Markdown   5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+conf       1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+sh         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
