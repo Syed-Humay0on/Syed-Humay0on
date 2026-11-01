@@ -50,7 +50,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Zig        16 mins               ████████████████▓░░░░░░░░   66.42 %
+Lua        6 mins                ███████░░░░░░░░░░░░░░░░░░   27.69 %
+Markdown   1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
